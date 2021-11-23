@@ -1,0 +1,98 @@
+{
+   "family_tree_of_J_S_Bach": {
+      "family": [
+         {
+            "husband": {
+               "_name": "Maria Elisabeth Lämmerhirt",
+               "_birth": "1644",
+               "_death": "1694"
+            },
+            "wife": {
+               "_name": "Johann Ambrosius Bach",
+               "_birth": "1645",
+               "_death": "1695"
+            },
+            "son": [
+               {
+                  "_name": "Johann Sebastian Bach",
+                  "_birth": "1685",
+                  "_death": "1750"
+               }
+            ],
+            "_name": "J.S Bach Birth Family"
+         },
+         {
+            "husband": {
+               "_name": "Johann Sebastian Bach",
+               "_birth": "1685",
+               "_death": "1750"
+            },
+            "wife": {
+               "_name": "Maria Barbara bach",
+               "_birth": "1684",
+               "_death": "1720"
+            },
+            "son": [
+               {
+                  "_name": "Wilhelm Friedemann Bach",
+                  "_birth": "1710",
+                  "_death": "1784"
+               },
+               {
+                  "_name": "Carl Philipp Emanuel Bach",
+                  "_birth": "1714",
+                  "_death": "1788"
+               }
+            ],
+            "_name": "J.S Bach Family with first wife"
+         },
+         {
+            "husband": {
+               "_name": "Johann Sebastian Bach",
+               "_birth": "1685",
+               "_death": "1750"
+            },
+            "wife": {
+               "_name": "Anna Magdalena Wilcke",
+               "_birth": "1701",
+               "_death": "1760"
+            },
+            "son": [
+               {
+                  "_name": "Gottfried Heinrich Bach",
+                  "_birth": "1724",
+                  "_death": "1763"
+               },
+               {
+                  "_name": "Johann Christoph Friedrich Bach",
+                  "_birth": "1732",
+                  "_death": "1795"
+               },
+               {
+                  "_name": "Johann Christian Bach",
+                  "_birth": "1735",
+                  "_death": "1782"
+               }
+            ],
+            "daughter": [
+               {
+                  "_name": "Elisabeth Julianne Friederica",
+                  "_birth": "1726",
+                  "_death": "1781"
+               },
+               {
+                  "_name": "Johanna Carolina",
+                  "_birth": "1737",
+                  "_death": "1781"
+               },
+               {
+                  "_name": "Regina Susanna",
+                  "_birth": "1742",
+                  "_death": "1809"
+               }
+            ],
+            "_name": "J.S Bach Family with second wife"
+         }
+      ]
+   }
+}
